@@ -16,3 +16,11 @@ email: dengdapeng@ahau.edu.cn
 ### 4 环境数据统计分析 Statistical Analysis of Environmental Data
 ### 5 R语言机器学习建模 Machine Learning Modeling in R
 ### 6 R语言深度学习建模 Deep Learning Modeling in R
+
+引用格式：
+@online{Da-Peng2024,
+    title = {Environmental Data Analysis and Machine Learning},
+    author = {Da-Peng Deng},
+    year = {2024},
+    url = {https://aau1928.github.io/edaml}
+}
